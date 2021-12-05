@@ -14,7 +14,7 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
         
         
-        print("welcome")
+        print("welcome to new thing in swift 5")
     }
 
 
