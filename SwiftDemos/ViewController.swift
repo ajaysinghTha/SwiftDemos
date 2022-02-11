@@ -12,13 +12,16 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
-        
-        
         print("welcome to new thing in swift 5")
         print("welcome to new thing in swift 7")
         print("welcome to new thing in swift 8")
         print("welcome to new thing in swift 9")
         print("welcome to new thing in swift 10")
+        self.setDatain()
+    }
+    
+    func setDatain() {
+        print("This is for good job in india")
     }
 
 
