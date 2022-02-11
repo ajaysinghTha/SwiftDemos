@@ -18,10 +18,23 @@ class ViewController: UIViewController {
         print("welcome to new thing in swift 9")
         print("welcome to new thing in swift 10")
         self.setDatain()
+        self.myNewFeaturesApp()
     }
     
     func setDatain() {
         print("This is for good job in india")
+    }
+    
+    
+    func myNewFeaturesApp() {
+        print("This is for viewDidLoad job in America")
+        print("This is for viewDidLoad job in America")
+        print("This is for viewDidLoad job in America")
+        print("This is for viewDidLoad job in America")
+        print("This is for viewDidLoad job in America")
+        print("This is for viewDidLoad job in America")
+        print("This is for viewDidLoad job in America")
+        
     }
 
 
