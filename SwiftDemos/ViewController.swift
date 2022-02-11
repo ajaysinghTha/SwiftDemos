@@ -15,6 +15,10 @@ class ViewController: UIViewController {
         
         
         print("welcome to new thing in swift 5")
+        print("welcome to new thing in swift 7")
+        print("welcome to new thing in swift 8")
+        print("welcome to new thing in swift 9")
+        print("welcome to new thing in swift 10")
     }
 
 
